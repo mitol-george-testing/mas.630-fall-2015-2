@@ -1,0 +1,41 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Social Science",
+      "Psychology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "b2acb90b-48a3-6a34-158c-7fcb12dab8d6"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Affective Computing",
+  "course_description": "This course instructs students on how to develop technologies that help people measure and communicate emotion, that respectfully read and that intelligently respond to emotion, and have internal mechanisms inspired by the useful roles emotions play.\n",
+  "department_numbers": [
+    "MAS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "MAS.630",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
